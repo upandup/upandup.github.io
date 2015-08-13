@@ -1,14 +1,23 @@
 ---
 layout: default-post
 ---
+{% if page.image %}
+<style>
+  .post-header {
+    background: #00B2EE url('../img/{{ page.image }}') center no-repeat;
+    background-size: cover;
+  }
+</style>
+{% endif %}
+
 <div class="post">
 
-  <section class="post-meta">
+  <section class="in-post-meta">
     <h2 class="post-title">{{ page.title }}</h2>
     {% if page.subtitle %}
       <h6 class="post-subtitle">{{ page.subtitle }}</h6>
     {% endif %}
-    <h4 class="post-info">{{ page.author }} &#x25cf; {{ page.date | date: "%b %-d, %Y" }}</h4>
+    <h4 class="post-info">por {{ page.author }} &#x25cf; {{ page.date | date: "%b %-d, %Y" }}</h4>
   </section>
 
   <article class="post-content">

@@ -343,6 +343,50 @@ ol, ul {
 
 
 /***************************************************************
+ * LIST OF POSTS
+ ***************************************************************/
+
+.post-list {
+  margin: 0;
+  list-style: none;
+}
+
+.post-list > li {
+  display: block;
+}
+
+/* Apply to all posts in list */
+.post-block {
+  padding: 20px 0;
+  padding-left: 15px;
+}
+
+/* Apply to all but first post in list */
+.post-block:not(:first-child) {
+  border-top: 1px solid #505050;
+}
+
+.post-link {
+  font-family: 'Open Sans';
+  font-weight: 300;
+  font-size: 1.75em;
+  color: #505050;
+  display: block;
+}
+
+.post-link:hover {
+  color: red;
+}
+
+@media screen and (max-width: 700px) {
+  .post-link {
+    font-size: 1.33em;
+  }
+}
+
+
+
+/***************************************************************
  * INDIVIDUAL POSTS
  ***************************************************************/
 
@@ -357,7 +401,7 @@ ol, ul {
 
 .post-header {
   min-height: 450px;
-  background: #00B2EE url('../img/photo-1427805371062-cacdd21273f1.jpeg') center no-repeat;
+  background: #00B2EE url('../img/default.jpeg') center no-repeat;
   background-size: cover;
   width: 82.5%;
   margin: 25px auto 0;
@@ -407,52 +451,18 @@ ol, ul {
 
 
 /***************************************************************
- * ARCHIVES
- ***************************************************************/
-
-.post-list {
-  margin: 0;
-  list-style: none;
-}
-
-.post-list > li {
-  display: block;
-}
-
-/* Apply to all posts in list */
-.post-block {
-  padding: 20px 0;
-  padding-left: 15px;
-}
-
-/* Apply to all but first post in list */
-.post-block:not(:first-child) {
-  border-top: 1px solid #505050;
-}
-
-.post-link {
-  font-family: 'Open Sans';
-  font-weight: 300;
-  font-size: 1.5em;
-  letter-spacing: -1px;
-  color: #454545;
-  display: block;
-  width: 100%;
-}
-
-@media screen and (max-width: 700px) {
-  .post-link {
-    font-size: 1.33em;
-  }
-}
-
-
-
-/***************************************************************
  * POST META
  ***************************************************************/
 
 .post-meta {
+  color: #505050;
+  font-size: 1em;
+
+  /*padding-bottom: 15px;
+  border-bottom: 1px solid #26C281;*/
+}
+
+.in-post-meta {
   color: #505050;
   font-size: 1.75em;
 
@@ -462,16 +472,19 @@ ol, ul {
 
 .post-title {
   color: #505050;
-  font-size: 1.25em;
+  font-size: 1.5em;
 }
 
 .post-subtitle {
   color: #757575;
-  font-size: 1.25em;
+  font-size: 1.2em;
+  font-weight: 300;
+  margin-bottom: 25px;
 }
 
 .post-info {
   font-size: 0.65em;
+  font-weight: 300;
   color: #757575;
 }
 
@@ -482,17 +495,8 @@ ol, ul {
  ***************************************************************/
 
 .post-header {
-  margin-bottom: 30px; }
-
-/*.post-title {
-  color: #fff;
+  margin-bottom: 30px;
 }
-
-@media screen and (max-width: 700px) {
-    .post-title {
-      font-size: 36px;
-    }
-}*/
 
 .post-content {
   margin-bottom: 30px;
