@@ -16,7 +16,6 @@ The following text has been taken from [this page](https://github.com/adam-p/mar
 ##### H5
 ###### H6
 
-
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Primer Post"
+subtitle: "Algo catchy aqui para los lectores"
 date: 2015-08-05
 categories: general
 image: photo-1431578500526-4d9613015464.jpeg
