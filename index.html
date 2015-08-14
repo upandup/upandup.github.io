@@ -10,6 +10,7 @@ layout: default
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         <span class="post-meta">{{ post.author }} • {{ post.date | date: "%b %-d, %Y" }}</span>
         <p>{{ post.excerpt }}</p>
+        <a href="{{ post.url | prepend: site.baseurl }}"><button class="button button--wayra button--border-thin button--round-s">Leer Más</button></a>
       </li>
     {% endfor %}
   </ul>
