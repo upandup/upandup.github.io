@@ -15,5 +15,20 @@ defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
+      type: "posts"
     values:
+      layout: "post"
+      author: Andy Sapper
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "drafts"
+    values:
+      layout: "post"
       author: Andy Sapper

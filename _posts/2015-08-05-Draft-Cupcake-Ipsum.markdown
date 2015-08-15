@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "Cupcake Ipsum"
 subtitle: "Algo catchy aqui para los lectores"
 date: 2015-08-13
-categories: general
+category: general
 ---
 
 Cupcake ipsum dolor sit. Amet croissant apple pie sesame snaps cupcake cake pie. Toffee dragée halvah jelly-o danish pudding jelly. Toffee toffee cupcake dessert apple pie sweet fruitcake topping. Cookie marshmallow dessert marshmallow soufflé. Bonbon sweet roll danish danish. Icing donut cookie pie pastry gingerbread cake. Cake cheesecake lemon drops pudding. Dessert jelly danish marzipan chocolate toffee cotton candy topping. Dessert liquorice sugar plum cake tootsie roll tart. Tart biscuit marshmallow halvah cake pastry. Donut marzipan liquorice. Liquorice sugar plum donut cheesecake oat cake cake. Candy canes marshmallow cake.

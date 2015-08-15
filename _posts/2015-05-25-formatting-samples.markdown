@@ -1,8 +1,7 @@
 ---
-layout: post
 title: "Formatting Samples"
 date: 2015-05-25
-categories:
+category: general
 image: photo-1427805371062-cacdd21273f1.jpeg
 ---
 
