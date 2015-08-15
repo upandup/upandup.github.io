@@ -20,6 +20,7 @@ defaults:
     values:
       layout: "post"
       author: Andy Sapper
+      comments: true
   -
     scope:
       path: "" # an empty string here means all files in the project
