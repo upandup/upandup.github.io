@@ -228,7 +228,8 @@ ol, ul {
 
 .site-header {
   min-height: 450px;
-  background-color: #EA6153;
+  background: #4B77BE url('../img/skater-backg.jpg') center no-repeat;
+  background-size: cover;
 }
 
 @media screen and (max-width: 700px) {
@@ -238,10 +239,6 @@ ol, ul {
   }
 }
 
-.site-header a, a h1:hover {
-  color: #FFF;
-}
-
 .site-header h1 {
   font-size: 5em !important;
   line-height: 80px;
@@ -249,6 +246,7 @@ ol, ul {
   text-transform: uppercase;
   font-family: 'Open Sans', Helvetica, sans-serif;
   font-weight: 700;
+  color: #fff;
 }
 
 @media screen and (max-width: 700px) {
@@ -280,11 +278,11 @@ ol, ul {
 
 /* Nav bar */
 .site-nav {
-  background-color: #34495e;
+  background-color: #4B77BE;
   padding: 15px 0;
   width: 100%;
   height: 25px;
-  border-bottom: 3px solid #f1c40f;
+  /*border-bottom: 3px solid #f1c40f;*/
 }
 
 /* Nav links aligned to right */
@@ -332,7 +330,8 @@ ol, ul {
 }
 
 .site-title:hover {
-  color: #f1c40f;
+  color: #fff;
+  opacity: 0.8;
 }
 
 
@@ -373,7 +372,7 @@ ol, ul {
 
 /* Apply to all but first post in list */
 .post-block:not(:first-child) {
-  border-top: 1px solid #f1c40f;
+  border-top: 1px solid #505050;
 }
 
 .post-link {
@@ -385,7 +384,7 @@ ol, ul {
 }
 
 .post-link:hover {
-  color: #19B5FE;
+  color: #4B77BE;
 }
 
 @media screen and (max-width: 700px) {
@@ -465,7 +464,7 @@ ol, ul {
  ***************************************************************/
 
 .post-meta {
-  color: #505050;
+  color: #F39C12;
   font-size: 1em;
 
   /*padding-bottom: 15px;
@@ -635,11 +634,11 @@ ol, ul {
  ***************************************************************/
 
 .pagination {
-  color: #505050;
+  color: #959595;
 }
 
 .pagination a {
-  color: #f1c40f;
+  color: #505050;
 }
 
 
