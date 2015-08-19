@@ -1,10 +1,20 @@
 ---
 layout: default-post
 ---
+
 {% if page.image %}
 <style>
   .post-header {
     background: #00B2EE url('../img/{{ page.image }}') center no-repeat;
+    background-size: cover;
+  }
+</style>
+{% endif %}
+
+{% if page.authorPhoto %}
+<style>
+  .in-post-author-photo {
+    background: url('../img/autor--{{ page.authorPhoto }}.jpg') center no-repeat;
     background-size: cover;
   }
 </style>
@@ -15,9 +25,26 @@ layout: default-post
   <section class="in-post-meta">
     <h2 class="post-title">{{ page.title }}</h2>
     {% if page.subtitle %}
-      <h6 class="post-subtitle">{{ page.subtitle }}</h6>
+      <h3 class="post-subtitle">{{ page.subtitle }}</h3>
     {% endif %}
-    <h4 class="post-info">por {{ page.author }} &#x25cf; {{ page.date | date: "%b %-d, %Y" }}</h4>
+  </section>
+
+  <!-- <section class="social-bar">
+    <div id="post-twitter-share">
+      <a href="https://twitter.com/share" class="twitter-share-button" data-text="Les recomiendo leer este atriculo!" data-hashtags="MiGeneracion">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    </div>
+
+    <div id="post-facebook-share"></div>
+  </section> -->
+
+  <section class="in-post-author">
+    <div class="in-post-author-photo"></div>
+    <h4 class="in-post-info">por <strong>{{ page.author }}</strong></h4>
+    <h4 class="in-post-info">{{ page.date | date: "%b %-d, %Y" }}</h4>
+    {% if page.authorInfo %}
+    <p class="in-post-info">{{ page.authorInfo }}</p>
+    {% endif %}
   </section>
 
   <article class="post-content">

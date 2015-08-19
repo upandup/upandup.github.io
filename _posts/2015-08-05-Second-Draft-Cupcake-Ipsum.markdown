@@ -1,9 +1,12 @@
 ---
 title: "Second Cupcake Ipsum"
 subtitle: "Una frase relacionada al tema aqui"
-author: John Doe
+author: "John Doe"
+authorInfo: "Cupcake ipsum dolor sit. Amet apple pie lemon drops muffin sweet chupa chups I love I love I love. I love chocolate cotton candy. Sugar plum sesame snaps sugar plum."
+authorPhoto: "Andy-Sapper"
 date: 2015-08-14
 category: general
+image: telescope-498331_1920.jpg
 ---
 
 Cupcake ipsum dolor sit. Amet apple pie lemon drops muffin sweet chupa chups I love I love I love. I love chocolate cotton candy. Sugar plum sesame snaps sugar plum. Macaroon biscuit dessert wafer tiramisu I love jelly bonbon ice cream. Cookie icing I love carrot cake icing sugar plum. Apple pie halvah icing. I love I love pudding jujubes. Chocolate bar pie pudding croissant jelly marshmallow. Pudding dragée I love muffin gingerbread pudding. Soufflé jelly-o carrot cake I love ice cream I love. Cupcake sesame snaps cake jelly beans. I love lemon drops croissant wafer soufflé liquorice jujubes. Donut marshmallow I love.
