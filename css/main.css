@@ -50,7 +50,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
 }
 
 h3 {
@@ -159,6 +159,7 @@ pre > code {
   box-sizing: border-box;
   width: 82.5%;
   margin: 0 auto;
+  text-align: center;
 }
 
 @media screen and (max-width: 700px) {
@@ -325,8 +326,9 @@ ol, ul {
   color: #fff;
   text-transform: uppercase;
   display: inline-block;
-  float: left;
+  /*float: left;*/
 
+  text-align: center;
   font-size: 1em;
   font-family: 'Open Sans', Helvetica, sans-serif;
   font-weight: 700;
@@ -489,8 +491,11 @@ ol, ul {
 }
 
 .post-subtitle {
+  font-family: "PT Serif", serif;
+  font-style: italic;
+  font-weight: normal;
   color: #757575;
-  font-size: 1.2em;
+  font-size: 1.5625rem; /* 25px/16px */
   font-weight: 300;
 }
 
