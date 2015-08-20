@@ -41,7 +41,24 @@ layout: default-post
   <section class="in-post-author">
     <div class="in-post-author-photo"></div>
     <h4 class="in-post-info">por <strong>{{ page.author }}</strong></h4>
-    <h4 class="in-post-info">{{ page.date | date: "%b %-d, %Y" }}</h4>
+    <h4 class="in-post-info">
+      {% assign m = page.date | date: "%-m" %}
+      {% case m %}
+        {% when '1' %}Enero
+        {% when '2' %}Febrero
+        {% when '3' %}Marzo
+        {% when '4' %}Abril
+        {% when '5' %}Mayo
+        {% when '6' %}Junio
+        {% when '7' %}Julio
+        {% when '8' %}Agosto
+        {% when '9' %}Septiembre
+        {% when '10' %}Octubre
+        {% when '11' %}Noviembre
+        {% when '12' %}Diciembre
+      {% endcase %}
+      {{ page.date | date: "%-d, %Y" }}
+    </h4>
     {% if page.authorInfo %}
     <p class="in-post-info">{{ page.authorInfo }}</p>
     {% endif %}
