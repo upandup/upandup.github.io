@@ -352,15 +352,14 @@ ol, ul {
 .footer {
   padding: 20px 0;
   margin: auto;
-  line-height: 1;
-  font-size: 0.75rem; /* 12px/16px */
-  font-family: Open Sans;
-  color: #959595;
+  line-height: 1.5;
   border-top: 1px solid #BDC3C7;
 }
 
-.footer-info {
-  font-size: 13px;
+.footer p {
+  font-family: 'Open Sans', Helvetica;
+  font-size: 0.8125rem; /* 13px/16px */
+  color: #959595;
 }
 
 
