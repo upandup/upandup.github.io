@@ -1,8 +1,8 @@
 # Site settings
-title: Up & Up
+title: The Trend
 email: asapper@hotmail.com
 description: Blog de temas relevantes para esta generación.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/the-trend" # the subpath of your site, e.g. /blog/
 url: "http://asapper.github.io" # the base hostname & protocol for your site
 github_username: asapper
 paginate: 5
