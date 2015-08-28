@@ -34,10 +34,10 @@
   //]]>
   </script>
 
+  <meta property="og:type" content="article">
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:description" content="{{ page.subtitle }}">
-  <meta property="og:image" content="{{ page.image }}">
-  <meta property="og:type" content="article">
+  <meta property="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}">
   {% endif %}
 
 </head>
