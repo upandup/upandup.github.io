@@ -41,8 +41,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Oswald", Helvetica, sans-serif;
-  font-weight: normal;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
 }
 
 h1 {
@@ -419,9 +419,9 @@ ol, ul {
 }
 
 .post-subtitle {
-  font-family: "PT Serif", serif;
+  font-family: 'Roboto', sans-serif;
   font-style: italic;
-  font-weight: normal;
+  font-weight: 400;
   color: #757575;
   font-size: 1.5625rem; /* 25px/16px */
   font-weight: 300;
