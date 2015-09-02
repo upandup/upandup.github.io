@@ -30,9 +30,10 @@ Existe otro aspecto hemos dejado atrás acerca de los sueños: el propósito por
 ##Cómo Dios se agrada por nuestros sueños
 Hasta este punto tal vez te preguntes, ¿cuál es un sueño suficientemente valioso entonces? Un sueño suficientemente valioso es aquel que te hace necesitar -- hasta el punto de depender -- de Dios para poder seguir avanzando. En otras palabras, si mi sueño requiere de pasos que ya he tomado y recursos que ya poseo, entonces va a ser difícil que yo dependa totalmente de Dios (porque ya poseo lo necesario). En esas circunstancias tal vez puedas *incluir* a Dios en tus sueños, pero no es que *necesites* de Dios. En cambio, si tus sueños requieren de pasos que nunca has tomado y recursos que no posees (no necesariamente debe ser dinero, sino tal vez experiencia o conocimiento) esto te va a obligar a depender de Dios en cada paso del camino. Y esto agrada a Dios porque le estamos diciendo que dependemos de Él; y si confías en que Él es capaz y fiel para caminar todo el camino contigo, te aseguro que estás alcanzando lo más profundo de Su corazón.
 
-> “Pon en manos del Señor todas tus obras, y tus proyectos se cumplirán.” Proverbios 16:3 (NVI)
+Te dejo con este versículo para motivarte a soñar y confiar en los planes que Dios tiene para ti.
+“Pon en manos del Señor todas tus obras, y tus proyectos se cumplirán.” Proverbios 16:3 (NVI)
 
 **Conclusión:** no temas a soñar, ni limites la cantidad de tus sueños. Dios nos dio a todos talentos y pasiones, y estoy seguro que Él desea usarte en el lugar donde puedas hacer uso de esas características y servirle a Él.
 
 
-** *¿Cuáles son tus sueños y cómo estos sueños te mueven a confiar en Dios como nunca antes?* **
+**_¿Cuáles son tus sueños y cómo estos sueños te mueven a confiar en Dios como nunca antes?_**
