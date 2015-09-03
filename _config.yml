@@ -3,8 +3,7 @@ title: Up & Up
 email: asapper@hotmail.com
 description: Blog de temas relevantes para esta generación.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://asapper.github.io" # the base hostname & protocol for your site
-github_username: asapper
+url: "http://upandup.github.io" # the base hostname & protocol for your site
 paginate: 5
 
 # Build settings
