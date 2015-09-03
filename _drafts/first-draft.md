@@ -6,7 +6,7 @@ authorInfo: "Guatemalteco de corazón. Estudiante, ávido lector y atleta. Apasi
 authorPhoto: "Andy-Sapper"
 date: 2015-09-03
 category: faith
-image: telescope-498331_1920.jpg---
+---
 
 This is my first draft. It will only appear when I run the command 'jekyll serve --drafts'
 on the command line.
