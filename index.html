@@ -8,7 +8,25 @@ layout: default
     {% for post in paginator.posts %}
       <li class="post-block">
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        <span class="post-meta">{{ post.author }} • {{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">
+          {{ post.author }} • 
+          {% assign m = post.date | date: "%-m" %}
+          {% case m %}
+            {% when '1' %}Enero
+            {% when '2' %}Febrero
+            {% when '3' %}Marzo
+            {% when '4' %}Abril
+            {% when '5' %}Mayo
+            {% when '6' %}Junio
+            {% when '7' %}Julio
+            {% when '8' %}Agosto
+            {% when '9' %}Septiembre
+            {% when '10' %}Octubre
+            {% when '11' %}Noviembre
+            {% when '12' %}Diciembre
+          {% endcase %}
+          {{ post.date | date: "%-d, %Y" }}
+        </span>
         <p>{{ post.excerpt }}</p>
         <a href="{{ post.url | prepend: site.baseurl }}"><button class="button button--wayra button--border-thin button--round-s">Leer Más</button></a>
       </li>
