@@ -359,12 +359,12 @@ ol, ul {
   font-family: 'Open Sans';
   font-weight: 300;
   font-size: 1.75em;
-  color: #505050;
+  color: #353535;
   display: block;
 }
 
 .post-link:hover {
-  color: #4B77BE;
+  color: #505050;
 }
 
 
@@ -401,11 +401,8 @@ ol, ul {
  ***************************************************************/
 
 .post-meta {
-  color: #1ABC9C;
+  color: #52B3D9;
   font-size: 1em;
-
-  /*padding-bottom: 15px;
-  border-bottom: 1px solid #26C281;*/
 }
 
 .in-post-meta {
@@ -488,7 +485,7 @@ ol, ul {
 
   border: none;
 	background: none;
-	color: #34495e;
+	color: #22A7F0;
 
 	vertical-align: middle;
 	position: relative;
@@ -541,7 +538,7 @@ ol, ul {
 }
 .button--wayra:hover {
 	color: #fff;
-	border-color: #34495e;
+	border-color: #22A7F0;
 }
 .button--wayra.button--inverted:hover {
 	color: #3f51b5;
@@ -549,7 +546,7 @@ ol, ul {
 }
 .button--wayra:hover::before {
 	opacity: 1;
-	background-color: #34495e;
+	background-color: #22A7F0;
 
 	-webkit-transform: rotate3d(0, 0, 1, 0deg);
 	        transform: rotate3d(0, 0, 1, 0deg);
@@ -578,7 +575,7 @@ ol, ul {
 
 
 /***************************************************************
- * SYNTAX HIGHLIGHTING
+ * MEDIA QUERIES
  ***************************************************************/
 
 /*
