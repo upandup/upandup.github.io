@@ -3,7 +3,7 @@ title: "El Poder de los Sueños"
 subtitle: "Retomemos la costumbre de soñar, Dios se agradrá si lo hacemos correctamente"
 author: "Andy Sapper"
 authorInfo: "Guatemalteco de corazón. Estudiante, ávido lector y atleta. Apasionado por esta generación y los planes que Dios tiene para ella."
-authorPhoto: "Andy-Sapper"
+authorPhoto: "Andy-Sapper.jpg"
 date: 2015-08-20
 category: faith
 image: telescope-498331_1920.jpg
