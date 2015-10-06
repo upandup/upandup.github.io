@@ -35,4 +35,4 @@ Como leemos en [Proverbios 16:32](https://www.biblegateway.com/passage/?search=P
 
 Pero no me mal interpretes, sí requiere de una buena fuerza de voluntad poder esperar. Pero si entendemos que lo más valioso en esta vida requiere sacrificio, que cada paso cuenta, y que la paciencia nos ayuda a madurar, podremos obtener una más grande esperanza de que un día llegaremos a esa meta.
 
-**_Cuéntanos, ¿qué otro aspecto crees que le agrega valor a la paciencia?_**
+**_** Cuéntanos, ¿qué otro aspecto crees que le agrega valor a la paciencia? **_**
