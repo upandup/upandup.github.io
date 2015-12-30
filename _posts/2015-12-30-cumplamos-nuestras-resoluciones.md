@@ -1,5 +1,5 @@
 ---
-title: "Este Año Sí. Cumplamos Nuestra Resoluciones de Año Nuevo"
+title: "Este Año Sí. Cumplamos Nuestras Resoluciones de Año Nuevo"
 subtitle: "No es que las resoluciones de año nuevo sean inalcanzables, sino que no hemos intentado alcanzarlas de la manera correcta."
 author: "Andy Sapper"
 authorInfo: "Guatemalteco de corazón. Estudiante, ávido lector y atleta. Apasionado por esta generación y los planes que Dios tiene para ella."
