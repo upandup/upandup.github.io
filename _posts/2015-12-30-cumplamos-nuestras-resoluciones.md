@@ -42,6 +42,6 @@ Como había mencionado antes, el mejor tipo de metas de nuevo año que nos podem
 
 Metas como ser puntual, leer más libros, usar menos el celular, son metas que podemos olvidar escribir en nuestra lista pero son metas con un potencial muy alto. Mi consejo es que no subestimes el poder de estas metas que pueden parecer simples.
 
-> "Es la calidad y no la calidad de tus metas lo que importa."
+> "Es la calidad y no la cantidad de metas lo que importa."
 
 Intenta ser más puntual (incluso llegar siempre temprano a reuniones), intenta pasar más tiempo con amigos en personas que a través de Instagram o Whatsapp, intenta ser más amigable con los que te rodeen y te aseguro que estas metas te harán ver un cambio positivo en tu vida y en la vida de las personas con quienes pasas tiempo. Al fin y al cabo, es la calidad y no la cantidad de tus metas lo que importa.
