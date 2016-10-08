@@ -12,7 +12,7 @@ Si te pones a pensar, la gran mayoría de cosas que necesitamos (o más bien que
 
 Sinceramente, me he visto muchas veces deseando que otras cosas en la vida fueran así de fácil de obtener -- que presionara un botón y pudiera tener buena comida lista para comer, sin tener que pasar una hora o más cocinando algo. Pero, aunque hay cosas que podemos obtener inmediatamente, existe algo sumamente importante en entender por qué otras cosas no podemos obtenerlas así de fácil (y no debemos buscar una manera de obtenerlas fácilmente).
 
-##Lo más valioso no se obtiene fácilmente
+##Lo más valioso no se obtiene fácilmente##
 Esto es cierto en cualquier área de nuestras vidas. Ya sea desde una amistad que valga la pena tener, hasta un libro que en realidad te enseñe algo valioso, todas estas cosas van a requerir de un sacrificio de nuestra parte.
 
 Por ejemplo, si ves a los atletas que compiten en las Olimpiadas te darás cuenta de que poseen una verdadera habilidad para hacer lo que hacen. Pero es común pensar que esa habilidad fue obtenida por entrenar un par de semanas o meses, aunque en realidad le tomó años de arduo trabajo a ese atleta poder llegar al nivel donde se encuentra. Y esto es importante que todos lo aprendamos porque es fácil comenzar a practicar un deporte, es fácil comenzar a ir al gimnasio para perder peso, es fácil comenzar una nueva carrera en la universidad (agrega aquí alguna etapa en tu vida), pero conforme nos adentramos en ese proceso, y tal vez los resultados no son los que soñábamos, puede llegar a ser difícil obtener la motivación para terminar lo que un día comenzamos. Pero si reconocemos que lo más valioso en la vida requiere de un sacrificio, nos será más fácil someternos a ese proceso.
