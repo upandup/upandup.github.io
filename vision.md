@@ -4,7 +4,7 @@ title: Visión
 permalink: /vision/
 ---
 
-#Meta
+# Meta
 
 Este proyecto nace con la meta de poder influenciar positivamente a toda mi generación. Todos nos vamos a encontrar con decisiones en el día a día que van a tener un efecto importante en el resto de nuestras vidas y en la vida de las personas alrededor nuestro. Es por esto que nace este proyecto. Con la idea de generar una influencia positiva en la vida de los lectores, la meta es poder promover valores positivos y bíblicos que ayuden a todo joven/adulto a poder ser sabio y guiado por Dios al momento de tener que tomar una decision.
 
