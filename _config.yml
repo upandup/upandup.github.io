@@ -4,7 +4,9 @@ email: asapper@hotmail.com
 description: Blog de temas relevantes para esta generación.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://upandup.github.io" # the base hostname & protocol for your site
+gems: [jekyll-paginate]
 paginate: 5
+paginate_path: "page:num"
 
 # Build settings
 markdown: kramdown

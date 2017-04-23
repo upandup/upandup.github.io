@@ -220,6 +220,7 @@ table {
 
 ol, ul {
   list-style-position: inside;
+  margin-bottom: 25px;
 }
 
 
